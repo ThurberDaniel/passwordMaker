@@ -7,4 +7,4 @@ def home(request):
 
 
 def cars(request):
-    return HttpResponse('<h1>cars are here</h1>')
+    return HttpResponse('<h1>Cars are here</h1>')
