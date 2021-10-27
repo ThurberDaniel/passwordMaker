@@ -8,3 +8,6 @@ def home(request):
 
 def cars(request):
     return HttpResponse('<h1>Cars here</h1>')
+
+
+
