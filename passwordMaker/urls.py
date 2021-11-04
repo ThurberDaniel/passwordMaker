@@ -19,5 +19,6 @@ from generator import views
 urlpatterns = [
     path('', views.home),
     path('cars', views.cars),
+    path('contact', views.contact)
 
 ]
